@@ -74,6 +74,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 screenshot of project
 
 
+
+![Screenshot (120)](https://github.com/Ravinder-Raj/login_page_frontend/assets/59919599/627f512b-9b6b-4353-b49c-f6971dcae052)
+![Screenshot (121)](https://github.com/Ravinder-Raj/login_page_frontend/assets/59919599/81a5c3e5-7b27-431b-8b3d-bead33849613)
+![Screenshot (123)](https://github.com/Ravinder-Raj/login_page_frontend/assets/59919599/8b0e41a4-b9df-4f4f-ad28-374c3e572b9a)
+![Screenshot (124)](https://github.com/Ravinder-Raj/login_page_frontend/assets/59919599/2fc938a6-682c-44fd-9037-09bf591e2f01)
 ![Screenshot (125)](https://github.com/Ravinder-Raj/login_page_frontend/assets/59919599/ede40f1c-04b8-4fa8-b9a4-285d65365ba1)
+
+
+
+
 
 
