@@ -21,13 +21,6 @@ const Register = () => {
   });
   const navigate = useNavigate();
 
-  // const handleDateChange = (date) => {
-  //   const year = date.getFullYear();
-  //   const month = date.getMonth() + 1;
-  //   const day = date.getDate();
-  //   const selectedDate = new Date(year, month - 1, day);
-  //   setValues({ ...values, dob: selectedDate });
-  // };  
 
   const handleDateChange = (date) => {
     const year = date.getFullYear();
